@@ -5,7 +5,7 @@ This document details the panel configuration for achieving a macOS-like taskbar
 ## Panel 1
 
 ### Panel Settings
-- **Screen Edge Position:** Top
+- **Screen Edge Position:** Bottom
 - **Reserve Space:** Yes
 - **Row Size:** 55px
 - **Number of Rows:** 1
@@ -23,7 +23,7 @@ This document details the panel configuration for achieving a macOS-like taskbar
 ## Panel 2
 
 ### Panel Settings
-- **Screen Edge Position:** Bottom
+- **Screen Edge Position:** Top
 - **Reserve Space:** Yes
 - **Row Size:** 20px
 - **Number of Rows:** 1
