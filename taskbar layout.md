@@ -1,31 +1,39 @@
-Panel 1:
+# 🖥️ Taskbar Layout Configuration
 
-reserve space on scree edges for the panel: Yes
-row size: 55
-number of rows: 1
-length: as low as possible
-Automatically increase the length: Yes
+This document details the panel configuration for achieving a macOS-like taskbar layout.
 
-Items:
-- whisker menu
-- launcher
-- launcher
-- launcher
-- seperator bar
-- window buttons
+## Panel 1
 
-Panel 2: 
+### Panel Settings
+- **Screen Edge Position:** Top
+- **Reserve Space:** Yes
+- **Row Size:** 55px
+- **Number of Rows:** 1
+- **Length:** Minimum possible
+- **Auto-length:** Yes
 
-reserve space on scree edges for the panel: Yes
-row size: 20
-number of rows: 1
-length: as high as possible
-Automatically increase the length: Yes
+### Panel Items (Left to Right)
+1. 📱 Whisker Menu
+2. 🚀 Launcher
+3. 🚀 Launcher
+4. 🚀 Launcher
+5. │ Separator Bar
+6. 🪟 Window Buttons
 
-items:
-- workspace switcher
-- seperator big
-- clock (xx:xx am/pm layout)
-- actions buttons (shutdown, logout)
+## Panel 2
 
+### Panel Settings
+- **Screen Edge Position:** Bottom
+- **Reserve Space:** Yes
+- **Row Size:** 20px
+- **Number of Rows:** 1
+- **Length:** Maximum possible
+- **Auto-length:** Yes
 
+### Panel Items (Left to Right)
+1. 🔄 Workspace Switcher
+2. ║ Big Separator
+3. 🕐 Clock (12-hour format: HH:MM AM/PM)
+4. ⚙️ Action Buttons
+   - Shutdown
+   - Logout
