@@ -8,6 +8,12 @@ repo to hold my themeing files for Xfce Linux Mint. Mac OS clone
 
 This collection utilizes the following themes and icon packs:
 
+### Custom Bash Promt
+
+```bash
+PS1='\[\e[38;5;39m\]{\[\e[38;5;43m\]\u\[\e[38;5;45m\]@\[\e[38;5;43m\]\h\[\e[0m\] \[\e[38;5;153m\]\w\[\e[38;5;39m\]}\[\e[0m\] '
+```
+
 ### Themes
 - WhiteSur GTK Theme - Created by [vinceliuice](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
